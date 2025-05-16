@@ -1,3 +1,4 @@
+print("Inout '0' for any unknown value") 
 v = float(input("Enter velocity(v): "))
 u = float(input("Enter previous velocity(u): "))   
 a = float(input("Enter acceleration(a): "))
