@@ -1,2 +1,2 @@
 # PHYSICS
-This is my physics project 
+This is a physics project 
